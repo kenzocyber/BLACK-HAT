@@ -1,5 +1,4 @@
 # BLACK-HAT
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
